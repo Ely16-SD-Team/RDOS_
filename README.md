@@ -5,8 +5,11 @@ A 2D roguelike focused on ricochet mechanics, created by SD-Team for Educational
 Game Features
 
 • Enemy Waves — escalating difficulty and fast-paced combat.
+
 • Random Upgrades — choose upgrades between waves to create unique builds.
+
 • Bounce Geometry — calculate projectile ricochet angles off walls and obstacles.
+
 
 Tech Stack
 
