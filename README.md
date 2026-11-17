@@ -1,36 +1,35 @@
-# RDOS
+RDOS
 
-2D-рогалик с упором на рикошеты, созданный студией **SD-Team** в рамках джема **Educational Jam #5 (2026)**.
+A 2D roguelike focused on ricochet mechanics, created by SD-Team for Educational Jam #5 (2026).
 
-## Особенности игры
+Game Features
 
-* **Волны врагов** — нарастающая сложность и динамичные сражения.
-* **Случайная прокачка** — выбор улучшений между волнами для создания уникальных билдов.
-* **Геометрия отскоков** — расчет углов рикошета проджектайлов от стен и препятствий.
+• Enemy Waves — escalating difficulty and fast-paced combat.
+• Random Upgrades — choose upgrades between waves to create unique builds.
+• Bounce Geometry — calculate projectile ricochet angles off walls and obstacles.
 
-## Технологии
+Tech Stack
 
-* **Движок:** GameMaker Studio 2 (стандартная общедоступная версия из Steam).
-* **Язык:** GML (GameMaker Language).
+• Engine: GameMaker Studio 2 (standard public Steam version).
+• Language: GML (GameMaker Language).
 
-## Как открыть проект
+How to Open the Project
 
-1. Склонируйте репозиторий или скачайте архив с исходным кодом:
-   ```bash
-   git clone https://github.com/Eternally-EGS/RDOS.git
-   ```
-2. Откройте **GameMaker 2**.
-3. Нажмите `Open` (Открыть) и выберите файл проекта `.yyp` из папки репозитория.
-4. Нажмите `F5` для запуска тестовой сборки.
+1. Clone the repository or download the source code archive:bash
+git clone https://github.com/Eternally-EGS/RDOS.git
+Use code with caution.
+2. Open GameMaker 2.
+3. Click Open and select the .yyp project file from the repository folder.
+4. Press F5 to run a test build.
 
-## Дисклеймер (Примечания к коду)
+Disclaimer (Code Notes)
 
-Проект разрабатывался в сжатые сроки геймджема, поэтому в исходниках:
-* Встречаются баги и не самые оптимальные решения («костыли»).
-* Комментарии в коде написаны на русском языке.
-* Используйте код в своих проектах на свой страх и риск.
+This project was developed under tight game jam deadlines, so please note that in the source code:
+• There are bugs and suboptimal workarounds ("spaghetti code" / quick hacks).
+• Code comments are written in Russian.
+• Use the code in your own projects at your own risk.
 
-## Лицензия и права
+License and Rights
 
-* **Исходный код:** Вы можете свободно брать, изучать, изменять и использовать код этого проекта как вам вздумается.
-* **Интеллектуальная собственность:** Права на саму игру **RDOS**, её название и оригинальные ассеты принадлежат студии **SD-Team**.
+• Source Code: You are free to take, study, modify, and use the code of this project however you like.
+• Intellectual Property: Rights to the game RDOS itself, its title, and original assets belong to SD-Team.
